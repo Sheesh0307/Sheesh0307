@@ -1,20 +1,20 @@
 # Hi There, I am Shirish Tamrakar
 
-I'm a student from Nepal with a passion for software development and continuous learning.
+I'm a CS student from Nepal with a passion for software development and continuous learning.
 
-##  Currently Learning
+## 🤔Currently Learning
 
 * React.js
 * Tailwind CSS
 * Modern Frontend Development
 
-##  Previous Experience
+## 💻Previous Experience
 
 * Built mobile applications using Flutter
 * Developed projects in C++
 * Explored object-oriented programming, algorithms, and problem-solving
 
-##  Technologies & Tools
+## 🛠️Technologies & Tools
 
 * React
 * Tailwind CSS
