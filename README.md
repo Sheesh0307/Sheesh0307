@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi There, I am Shirish Tamrakar
 
-<!--
-**Sheesh0307/Sheesh0307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student from Nepal with a passion for software development and continuous learning.
 
-Here are some ideas to get you started:
+##  Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* React.js
+* Tailwind CSS
+* Modern Frontend Development
+
+##  Previous Experience
+
+* Built mobile applications using Flutter
+* Developed projects in C++
+* Explored object-oriented programming, algorithms, and problem-solving
+
+##  Technologies & Tools
+
+* React
+* Tailwind CSS
+* Flutter
+* Dart
+* C++
+* Git & GitHub
+
